@@ -1,4 +1,14 @@
-# Uat-X Project  
+# Uat-X Project (a part of DAO) 
+
+## RPC Servers Provide
+Global GeoIP: https://global.uat.cash  wss://wss.uat.cash  (For Most ppl use)
+
+Japan Region: https://jp.uat.cash  wss://wss-jp.uat.cash
+Singapore Region: https://sg.uat.cash  wss://wss-sg.uat.cash
+US Region: https://us.uat.cash wss://wss-us.uat.cash
+\*China Region: https://rpc.uatvo.com
+\**Due to the policy of the Chinese government, all RPC servers in China have been stopped. China's regional traffic will be directed to the nearest region through China's CDN.
+
 ## Description
 
 website: https://uat.cash (under dev)
