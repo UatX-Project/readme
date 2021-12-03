@@ -18,13 +18,14 @@ US Region: `https://us.uat.cash` `wss://wss-us.uat.cash`
 
 ## Description
 
-website: https://uat.cash (under dev)
+website: https://www.uat.cash (under dev)
 
 UatX Project is a non-profit organization used to maintain BCH nodes and smartbch rpc server nodes. At present, we are running China optimized sbch nodes and servers, and we will add more servers for global use in the near future. All income will be funded for project development, such as adding new networks and servers.Currently running many rpc and bch node.  
 
 UatX Project 是一個非盈利組織，用於維護 BCH 節點和 smartbch rpc 服務器節點。目前我們正在運行中國優化的 sbch 節點和服務器，我們將在不久的將來增加更多的服務器供全球使用。所有收入將資助項目開發，例如添加新網絡和服務器。  
 
 ## Trade  
+Token Info:  https://info.benswap.cash/token/0xffa2394b61d3de16538a2bbf3491297cc5a7c79a  
 BCH/UAT  
 DAO/UAT  
 https://dex.benswap.cash/#/swap?outputCurrency=0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a  
